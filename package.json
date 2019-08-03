@@ -1,0 +1,26 @@
+{
+  "name": "nameformatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nameInverter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node+modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyeel/nameFormatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elyeel/nameFormatter/issues"
+  },
+  "homepage": "https://github.com/elyeel/nameFormatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
